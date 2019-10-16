@@ -80,8 +80,8 @@ Header styles (Main Module)
 
 header {
     font-size: 18px;
-    color: #F5F5F5;
-    background-color: #0F1626;
+    color: black;
+    background-color: #9932CC;
     padding: 20px;
     display: block;
     width: 100%;
@@ -107,7 +107,7 @@ img {
 }
 
 header > a {
-    color: #FF533D;
+    color: white;
 }
 
 
